@@ -5,10 +5,11 @@ nav {
   padding-left: 125px;
   width: 5px;
   margin-right: 100px;
+  margin-bottom: 29px;
 }
 .list {
   display: flex;
-  margin-right:320px;
+  margin-right:220px;
   
 }
 
@@ -32,5 +33,28 @@ nav {
   height: 50px;
   color: white;
   border-radius: 10px;
+  margin-left: 130px;
+  
 }
-
+.banner-container {
+  display: flex;
+}
+.heading-text {
+  font-size: 62px;
+  padding-left: 125px;
+  color: #3c2f60;
+}
+span {
+  color:rgba(89,85,179,255);
+}
+.description {
+  color: gray;
+  padding-left: 125px;
+  margin-top: -18px;
+  width: 300px;
+  margin-bottom: 70px;
+}
+.btn {
+  width: 160px;
+  height: 60px;
+}
