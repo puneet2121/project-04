@@ -1,0 +1,36 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding:50px;
+  padding-left: 125px;
+  width: 5px;
+  margin-right: 100px;
+}
+.list {
+  display: flex;
+  margin-right:320px;
+  
+}
+
+.list-item {
+  display: flex;
+  margin-top:-7px;
+  margin-right:35px;
+  font-size: 18px;
+  color: gray;
+
+}
+.list-item:hover {
+ 
+  color: black;
+
+}
+.nav-button {
+  background-color: rgba(89,85,179,255);
+  font-size: 15px;
+  width: 130px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+
